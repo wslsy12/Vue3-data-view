@@ -1,0 +1,10 @@
+:root {
+  /* 背景色 */
+  --bg-color: #06164a;
+  /* 颜色 */
+  --color-white: #fff;
+  --color-white-opacity-5: rgba(255, 255, 255, 0.7);
+  /* 边框色 */
+  --border-color-100: rgba(25, 186, 139, 0.17);
+  --border-color-200: #02a6b5;
+}
